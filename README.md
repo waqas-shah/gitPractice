@@ -16,3 +16,6 @@ practice by aqsa
 
   hi this is me Ibrahim
 understanding stash and stash pop
+
+
+console.log("hELLO wORLD);
