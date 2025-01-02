@@ -6,3 +6,6 @@ console.log('sum' , x+y);
 this is test text by developer
 //summing the numbers.
 
+//multiplication
+
+var product = 7 *  9;
