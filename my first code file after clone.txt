@@ -2,3 +2,5 @@ changes from aqsa.
 let var x = 2;
 let y = 5;
 console.log('sum' , x+y);
+
+this is test text by developer
